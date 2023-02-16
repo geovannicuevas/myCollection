@@ -1,12 +1,4 @@
 
-/*
-Class: CSE 1322L
-Section: JO5
-Instructor: Harshitha Nirujogi
-Term: Spring'23
-Name: Geovanni Cuevas
-Lab: 5
- */
 import java.util.Scanner;
 
 
